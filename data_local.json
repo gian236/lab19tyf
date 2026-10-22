@@ -1,0 +1,8 @@
+{
+  "pubkey": "d25ff00124d66e717b44a7078d23b699d523f0e65be07d1133332f1f922583a0",
+  "npub": "npub16f0lqqfy6eh8z76y5urc6gakn82j8u8xt0s86yfnxvh3ly39swsqkgv0rd",
+  "note1_id": "4d3296a0199d67b193b0089f30ae3647a3f14e6d3ee72d6ed5c3a052940b83bd",
+  "content": "CS031 Lab 19 · nota de prueba",
+  "verify1": "Válida (código 0, firma y hash coinciden)",
+  "verify_alt": "invalid .id, expected id::94d63ef80b736542a1f65fda9fdc687bf646ecc9db58337d44bef3edf0517513, got id::4d3296a0199d67b193b0089f30ae3647a3f14e6d3ee72d6ed5c3a052940b83bd"
+}
